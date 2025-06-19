@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman deep Shukla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [E commerce site](https://github.com/amandeepshukla/AMAN-S-CODE/blob/main/MART)
+- 🔭 I’m currently working on [E commerce site]([https://github.com/amandeepshukla/AMAN-S-CODE/blob/main/MART](https://github.com/amandeepshukla/Fresh-Bazar))
 
 - 🌱 I’m currently learning **JS , react and advance CSS**
 
