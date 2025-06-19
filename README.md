@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aman deep Shukla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [E commerce site]([https://github.com/amandeepshukla/AMAN-S-CODE/blob/main/MART](https://github.com/amandeepshukla/Fresh-Bazar))
+- 🔭 I’m currently working on [E commerce site]([https://github.com/amandeepshukla/Fresh-Bazar])
 
 - 🌱 I’m currently learning **JS , react and advance CSS**
 
-- 👯 I’m looking to collaborate on [FRESH BAJAR](https://github.com/amandeepshukla/AMAN-S-CODE/blob/main/MART)
+- 👯 I’m looking to collaborate on [FRESH BAJAR](https://github.com/amandeepshukla/Fresh-Bazar)
 
-- 🤝 I’m looking for help with [FRESH BAJAR](https://github.com/amandeepshukla/AMAN-S-CODE/blob/main/MART)
+- 🤝 I’m looking for help with [FRESH BAJAR](https://github.com/amandeepshukla/Fresh-Bazar)
 
 - 👨‍💻 All of my projects are available at [https://github.com/amandeepshukla/AMAN-S-CODE/blob/main/Portfolio%202.0](https://github.com/amandeepshukla/AMAN-S-CODE/blob/main/Portfolio%202.0)
 
