@@ -59,5 +59,4 @@
   </a>
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="metasploit" width="40" height="40"/>
-  </a>
-</p>
+  </a></p>
