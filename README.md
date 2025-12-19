@@ -55,8 +55,8 @@
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   </a>
    <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="kali" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="kali" width="40" height="40"/>
   </a>
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="metasploit" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/305950/metasploit.svg" alt="metasploit" width="40" height="40"/>
   </a></p>
