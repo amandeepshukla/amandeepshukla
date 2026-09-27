@@ -3,7 +3,7 @@
 
 - 🎓 BCA Graduate, Invertis University, Bareilly (2023–2026)
 
-- 🔭 I'm currently working on [Smart Resume Analyzer & ATS Optimization Tool](https://github.com/amandeepshukla) — FastAPI + React 
+- 🔭 I'm currently working on [Smart Resume Analyzer & ATS Optimization Tool](https://github.com/amandeepshukla/CV-ATS-FRIENDLY) — FastAPI + React 
 
 - 🌱 I'm currently learning **Advanced React patterns, System Design, and applied ML**
 
@@ -19,10 +19,10 @@
 
 <h3 align="left">🚀 Featured Projects</h3>
 
-- **[Real-Time Driver Drowsiness Detection](https://github.com/amandeepshukla)** — Python, OpenCV, MediaPipe FaceMesh (EAR algorithm for real-time alerts)
-- **[AI Lead Scoring Engine](https://github.com/amandeepshukla)** — Scikit-learn, FastAPI, MERN — classifies & ranks sales leads by conversion probability
-- **[AI Image Tagger](https://github.com/amandeepshukla)** — CNN-based vision model (ResNet/CLIP) for automatic image tagging
-- **[Smart Resume Analyzer & ATS Optimization Tool](https://github.com/amandeepshukla)** — FastAPI, React (Vite), Gemini API
+- **[Real-Time Driver Drowsiness Detection](https://github.com/amandeepshukla/Real-Time-Driver-Drowsiness-Detection-System)** — Python, OpenCV, MediaPipe FaceMesh (EAR algorithm for real-time alerts)
+- **[AI Lead Scoring Engine](https://github.com/amandeepshukl)** — Scikit-learn, FastAPI, MERN — classifies & ranks sales leads by conversion probability
+- **[AI Image Tagger](https://github.com/amandeepshukla/AI-IMAGE-TAGGER)** — CNN-based vision model (ResNet/CLIP) for automatic image tagging
+- **[Smart Resume Analyzer & ATS Optimization Tool](https://github.com/amandeepshukla/CV-ATS-FRIENDLY)** — FastAPI, React (Vite)
 - **[AI Daily Routine Generator](https://github.com/amandeepshukla)** — FastAPI, SQLite, SQLAlchemy, Pydantic
 - **[Automated E-Commerce Price Tracker](https://github.com/amandeepshukla)** — Selenium, BeautifulSoup4, SQLite, Pytest (59-test suite)
 
