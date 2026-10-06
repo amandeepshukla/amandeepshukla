@@ -73,3 +73,12 @@
     <img src="https://www.svgrepo.com/show/305950/metasploit.svg" alt="metasploit" width="40" height="40"/>
   </a>
 </p>
+
+<h3 align="left">🐍 Contribution Snake</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amandeepshukla/amandeepshukla/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amandeepshukla/amandeepshukla/output/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/amandeepshukla/amandeepshukla/output/github-snake.svg" />
+  </picture>
+</p>
