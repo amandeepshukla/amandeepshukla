@@ -39,6 +39,25 @@ $ cat now.txt
 
 ---
 
+## 📸 The human behind the commits
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/aman.webp" alt="Aman Deep Shukla" width="260" />
+      <br/><sub><b>Dev mode</b> · neon on, bugs off</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/IMG_1171.webp" alt="Aman Deep Shukla, mirror selfie" width="260" />
+      <br/><sub><b>Offline mode</b> · yes, I do leave the terminal</sub>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
 ## 🛠️ My toolbox
 
 <div align="center">
