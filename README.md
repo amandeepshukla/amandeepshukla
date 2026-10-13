@@ -151,17 +151,7 @@ I'm an **AICTE–EduSkills certified Ethical Hacking Intern**. I've worked with 
 
 </div>
 
----
 
-## 🐍 Contribution snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/amandeepshukla/amandeepshukla/output/github-snake-dark.svg" alt="Snake eating my contributions" />
-</div>
-
-<sub>↑ To turn this on, add the Platane/snk GitHub Action to your profile repo (steps are in the notes I sent with this file).</sub>
-
----
 
 ## 📬 Let's talk
 
